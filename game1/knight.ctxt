@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=knight
+comment0.text=\n\ Write\ a\ description\ of\ class\ knight\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=knight()
+comment2.params=spell\ opponent
+comment2.target=void\ attack(java.lang.String,\ character)
+comment3.params=item
+comment3.target=void\ useItem(java.lang.String)
+numComments=4

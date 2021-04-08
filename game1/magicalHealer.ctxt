@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=magicalHealer
+comment0.text=\n\ Write\ a\ description\ of\ class\ magicalHealer\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=magicalHealer()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ magicalHealer\n
+comment2.params=user
+comment2.target=void\ healUser(character)
+comment3.params=
+comment3.target=int\ getHeal()
+comment4.params=newHeal
+comment4.target=void\ setHeal(int)
+numComments=5

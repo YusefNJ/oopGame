@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=zombie
+comment1.params=
+comment1.target=zombie()
+comment2.params=spell\ opponent
+comment2.target=void\ attack(java.lang.String,\ character)
+comment3.params=
+comment3.target=void\ getDrop()
+comment4.params=
+comment4.target=java.lang.String\ getKeyItem()
+comment5.params=newKeyItem
+comment5.target=void\ setKeyItem(java.lang.String)
+numComments=6
